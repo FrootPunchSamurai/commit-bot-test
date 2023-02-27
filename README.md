@@ -2,7 +2,6 @@
 
 
 Bash script that runs locally
-
 <br><br>
 
 ```shell
